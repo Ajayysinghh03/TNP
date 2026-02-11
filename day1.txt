@@ -1,0 +1,23 @@
+10 QUESTION PER WEEK
+
+
+
+COMPUTER NETWORK
+OPERATING SYSTEM
+SYSTEM DESIGN
+
+JAVA
+
+DBMS - Relational
+SQL
+
+mac address
+ip address
+
+mongo DB academy provides free course about MongoDB
+
+localhost 127.0.0.1
+
+
+
+
